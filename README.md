@@ -15,6 +15,7 @@ This is a simple web application for managing a to-do list. Users can add tasks,
 - HTML
 - CSS
 - JavaScript
+- project link https://sachida123.github.io/To-do/
 
 ## Getting Started
 
